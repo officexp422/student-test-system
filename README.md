@@ -2,6 +2,7 @@
 1.问题描述
 =====
 	每个学生的信息为：学号、姓名、性别、家庭住址、联系电话、语文、数学、外语三门单科成绩、考试平均成绩、考试名次、同学互评分、品德成绩、任课教师评分、综合测评总分、综合测评名次。考试平均成绩、同学互评分、品德成绩、任课教师评分分别占综合测评总分的60%、10%、10%、20%。
+	Every student's information is : code, name, sex, address, telephone number, Chinese score, math score, English score, average score, rank, score that students give each other, score that teacher gives, total score, total rank.
 A、学生信息处理
 ----
 （1）输入学生信息，学号、姓名、性别、家庭住址、联系电话、按学号从小到大的顺序呢存入文件中。<br>
